@@ -256,7 +256,7 @@ Try the questions first, then use these answers to check your work.
 7.  (x=2,3).
 8.  (a=2), (b=3), (c=-2). The solutions are (x=`\frac{1}{2}`{=tex}) and
     (x=-2).
-9.
+9.  
 
 -   a.  (D=0): one repeated real solution.
 -   b.  (D=-4): no real solutions.
@@ -264,7 +264,7 @@ Try the questions first, then use these answers to check your work.
 
 10. Negative; (a\<0).
 11. (x=-2) and (x=4).
-12.
+12. 
 
 -   a.  (x(x+3)=40)
 -   b.  (x\^2+3x-40=0)
